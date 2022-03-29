@@ -4,7 +4,7 @@
 - **firmware** - прошивка для Arduino, файл в папке открыть в Arduino IDE
 - **schemes** - принципиальные схемы
 ## Схема
- ![Alt-текст](https://github.com/yarestem/AccessControlRFID/blob/main/schemes/scheme.png)
+ ![Alt-текст](https://github.com/yarestem/AccessControlRFID/blob/main/schemes/scheme_v2.png)
  ## Мини инсрукция
  - **При первом включении мигают поочередно красный и зеленый светодиоды** - режим програмирования админ метки.
 - **Поднесли карту к считывателю загорелся красный светодиод** - метка не прошита в систему.
